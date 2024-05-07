@@ -10,6 +10,10 @@ Plataforma dedicada a jogadores ávidos por alcançar destaque no cenário compe
 Figma com o Layout: 
 https://www.figma.com/file/WLrfID9Ymrz9GkaWefmhyo/Site-EngageOrgTeam?type=design&node-id=0%3A1&mode=design&t=3R7rVRKuF384ZYw8-1
 
+Trello Backlog:
+
+https://trello.com/invite/b/h2ntko66/ATTI6f1109c39945f9e3da0de5919f291e2f3C72F406/site-engage-org-team
+
 # **1 - Criação da Seção Home**
 
 Desenvolver uma página inicial atraente e fácil de navegar, com conteúdo relevante para o público-alvo e uma imagem que reflita a temática da landing page.
